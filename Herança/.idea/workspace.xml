@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7166772-b72a-4fec-a5dc-5aaaa879a914" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eVLlSPCjs9IFp3eCTqZQUWFV6B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Herança" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7166772-b72a-4fec-a5dc-5aaaa879a914" name="Default Changelist" comment="" />
+      <created>1594401963521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594401963521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="32" width="800" height="736" key="#Intentions" timestamp="1594402196097">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="299" y="32" width="800" height="736" key="#Intentions/42.27.1324.741@42.27.1324.741" timestamp="1594402196097" />
+    <state x="512" y="84" width="544" height="654" key="#com.intellij.ide.util.MemberChooser" timestamp="1594405033073">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="512" y="84" width="544" height="654" key="#com.intellij.ide.util.MemberChooser/42.27.1324.741@42.27.1324.741" timestamp="1594405033073" />
+    <state width="1278" height="172" key="GridCell.Tab.0.bottom" timestamp="1594747556847">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.bottom/42.27.1324.741@42.27.1324.741" timestamp="1594747556847" />
+    <state width="1278" height="172" key="GridCell.Tab.0.center" timestamp="1594747556847">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.center/42.27.1324.741@42.27.1324.741" timestamp="1594747556847" />
+    <state width="1278" height="172" key="GridCell.Tab.0.left" timestamp="1594747556847">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.left/42.27.1324.741@42.27.1324.741" timestamp="1594747556847" />
+    <state width="1278" height="172" key="GridCell.Tab.0.right" timestamp="1594747556847">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.right/42.27.1324.741@42.27.1324.741" timestamp="1594747556847" />
+    <state width="1278" height="215" key="GridCell.Tab.1.bottom" timestamp="1594405927863">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="215" key="GridCell.Tab.1.bottom/42.27.1324.741@42.27.1324.741" timestamp="1594405927863" />
+    <state width="1278" height="215" key="GridCell.Tab.1.center" timestamp="1594405927853">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="215" key="GridCell.Tab.1.center/42.27.1324.741@42.27.1324.741" timestamp="1594405927853" />
+    <state width="1278" height="215" key="GridCell.Tab.1.left" timestamp="1594405927846">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="215" key="GridCell.Tab.1.left/42.27.1324.741@42.27.1324.741" timestamp="1594405927846" />
+    <state width="1278" height="215" key="GridCell.Tab.1.right" timestamp="1594405927863">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="215" key="GridCell.Tab.1.right/42.27.1324.741@42.27.1324.741" timestamp="1594405927863" />
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1594744510579">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog/42.27.1324.741@42.27.1324.741" timestamp="1594744510579" />
+    <state x="42" y="27" width="1314" height="741" key="new project wizard" timestamp="1594747554571">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="42" y="27" width="1314" height="741" key="new project wizard/42.27.1324.741@42.27.1324.741" timestamp="1594747554571" />
+    <state x="449" y="27" width="500" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1594403029080">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="449" y="27" width="500" height="741" key="refactoring.ChangeSignatureDialog/42.27.1324.741@42.27.1324.741" timestamp="1594403029080" />
+    <state x="367" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1594405155332">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="367" y="89" width="672" height="678" key="search.everywhere.popup/42.27.1324.741@42.27.1324.741" timestamp="1594405155332" />
+  </component>
+</project>

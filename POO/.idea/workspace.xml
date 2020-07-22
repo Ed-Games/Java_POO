@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28569db6-98db-4271-99d4-aabb040806aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dVFOGpKlXSH1Ujph0sBYAyTS15" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Aula06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula06" />
+      <module name="POO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aula06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28569db6-98db-4271-99d4-aabb040806aa" name="Default Changelist" comment="" />
+      <created>1592502319617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592502319617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1592503400151">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="512" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/42.27.1324.741@42.27.1324.741" timestamp="1592503400151" />
+    <state width="1278" height="172" key="GridCell.Tab.0.bottom" timestamp="1592505940818">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.bottom/42.27.1324.741@42.27.1324.741" timestamp="1592505940818" />
+    <state width="1278" height="172" key="GridCell.Tab.0.center" timestamp="1592505940817">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.center/42.27.1324.741@42.27.1324.741" timestamp="1592505940817" />
+    <state width="1278" height="172" key="GridCell.Tab.0.left" timestamp="1592505940815">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.left/42.27.1324.741@42.27.1324.741" timestamp="1592505940815" />
+    <state width="1278" height="172" key="GridCell.Tab.0.right" timestamp="1592505940817">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="172" key="GridCell.Tab.0.right/42.27.1324.741@42.27.1324.741" timestamp="1592505940817" />
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1592673925009">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog/42.27.1324.741@42.27.1324.741" timestamp="1592673925009" />
+    <state x="42" y="27" width="1314" height="741" key="new project wizard" timestamp="1592673946774">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="42" y="27" width="1314" height="741" key="new project wizard/42.27.1324.741@42.27.1324.741" timestamp="1592673946774" />
+  </component>
+</project>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5b5b37d-e76b-44e4-8c3a-fc179829a7e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1darG832xWjRenzimEmAVd193BM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="UEC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b5b37d-e76b-44e4-8c3a-fc179829a7e0" name="Default Changelist" comment="" />
+      <created>1592673946899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592673946899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="32" width="800" height="736" key="#Intentions" timestamp="1592676009982">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="299" y="32" width="800" height="736" key="#Intentions/42.27.1324.741@42.27.1324.741" timestamp="1592676009982" />
+    <state x="512" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1593192835627">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="512" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/42.27.1324.741@42.27.1324.741" timestamp="1593192835627" />
+    <state width="1278" height="6" key="GridCell.Tab.0.bottom" timestamp="1594059726251">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="6" key="GridCell.Tab.0.bottom/42.27.1324.741@42.27.1324.741" timestamp="1594059726251" />
+    <state width="1278" height="6" key="GridCell.Tab.0.center" timestamp="1594059726250">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="6" key="GridCell.Tab.0.center/42.27.1324.741@42.27.1324.741" timestamp="1594059726250" />
+    <state width="1278" height="6" key="GridCell.Tab.0.left" timestamp="1594059726240">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="6" key="GridCell.Tab.0.left/42.27.1324.741@42.27.1324.741" timestamp="1594059726240" />
+    <state width="1278" height="6" key="GridCell.Tab.0.right" timestamp="1594059726251">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state width="1278" height="6" key="GridCell.Tab.0.right/42.27.1324.741@42.27.1324.741" timestamp="1594059726251" />
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1594054547036">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog/42.27.1324.741@42.27.1324.741" timestamp="1594054547036" />
+    <state x="42" y="27" width="1314" height="741" key="new project wizard" timestamp="1594059723646">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="42" y="27" width="1314" height="741" key="new project wizard/42.27.1324.741@42.27.1324.741" timestamp="1594059723646" />
+  </component>
+</project>
